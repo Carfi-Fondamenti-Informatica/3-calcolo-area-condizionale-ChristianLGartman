@@ -3,9 +3,9 @@ using namespace std;
 int main() {
     int opzione;
     float a=0, b=0, area=0;
-    cout<<"Dimmi i valori di a e di b:\n";
+    cout<<"Dimmi i valori di a e di b:"<<endl;
     cin>>a>>b;
-    cout<<"Dimmi l'opzione che scegli:\n";
+    cout<<"Dimmi l'opzione che scegli:"<<endl;
     cin>>opzione;
     switch(opzione) {
         case 0:
