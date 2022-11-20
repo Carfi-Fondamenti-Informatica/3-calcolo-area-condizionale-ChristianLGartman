@@ -20,6 +20,7 @@ int main() {
             break;
         default:
             cout << "Opzione non valida";
+            break;
     }
     return 0;
 }
